@@ -1,2 +1,2 @@
 # TULA
-Contains the code associated to the article "The Tamed Unadjusted Langevin Algorithm".
+Contains the code and additional figures associated to the article "The Tamed Unadjusted Langevin Algorithm".
